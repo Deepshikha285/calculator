@@ -62,15 +62,16 @@ README.md         # Project documentation
 
  Code Structure
 • Each operation is handled by a dedicated function:
-○ add(x, y)
-○ subtract(x, y)
-○ multiply(x, y)
-○ divide(x, y)
+1. add(x, y)
+2. subtract(x, y)
+3. multiply(x, y)
+4. divide(x, y)
 
 • A loop allows repeated use until the user exits.
 • Basic error handling is included for invalid input and division by zero.
 
  To-Do (Optional Enhancements)
+ 
 • Support for exponentiation, modulus
 • Command-line arguments for one-off calculations
 • Logging calculation history
