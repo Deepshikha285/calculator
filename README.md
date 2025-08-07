@@ -56,11 +56,12 @@ Project Structure
 
 command-line-calculator/
 
-calculator.py     # Main Python script
-README.md         # Project documentation
+calculator.py   # Main Python script
+README.md       # Project documentation
 
 
  Code Structure
+
 • Each operation is handled by a dedicated function:
 1. add(x, y)
 2. subtract(x, y)
