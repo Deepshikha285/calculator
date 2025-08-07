@@ -1,10 +1,10 @@
-# 🧮 Command-Line Calculator
+# Command-Line Calculator
 
 A simple, interactive Python-based command-line calculator that supports basic arithmetic operations. This tool runs in your terminal and allows users to perform calculations in a continuous loop until they choose to exit.
 
 ---
 
-## 📌 Features
+## Features
 
 - Addition (`+`)
 - Subtraction (`-`)
@@ -15,7 +15,7 @@ A simple, interactive Python-based command-line calculator that supports basic a
 
 ---
 
-## 🛠️ Tools Required
+## Tools Required
 
 - Python 3.x
 - VS Code / any text editor
@@ -23,7 +23,7 @@ A simple, interactive Python-based command-line calculator that supports basic a
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone or Download the Project
 You can either clone this repo or manually download the `calculator.py` file.
