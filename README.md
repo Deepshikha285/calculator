@@ -56,8 +56,8 @@ Project Structure
 
 command-line-calculator/
 
-calculator.py   # Main Python script
-README.md       # Project documentation
+* calculator.py  
+* README.md       
 
 
  Code Structure
@@ -68,15 +68,15 @@ README.md       # Project documentation
 3. multiply(x, y)
 4. divide(x, y)
 
-• A loop allows repeated use until the user exits.
-• Basic error handling is included for invalid input and division by zero.
+* A loop allows repeated use until the user exits.
+* Basic error handling is included for invalid input and division by zero.
 
  To-Do (Optional Enhancements)
  
-• Support for exponentiation, modulus
-• Command-line arguments for one-off calculations
-• Logging calculation history
-• GUI version using Tkinter or PyQt
+* Support for exponentiation, modulus
+* Command-line arguments for one-off calculations
+* Logging calculation history
+* GUI version using Tkinter or PyQt
 
 
 
