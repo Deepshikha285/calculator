@@ -19,7 +19,7 @@ A simple, interactive Python-based command-line calculator that supports basic a
 
 - Python 3.x
 - VS Code / any text editor
-- Terminal / Command Prompt
+- Terminal / Command Prompt / Pycharm
 
 ---
 
@@ -29,7 +29,7 @@ A simple, interactive Python-based command-line calculator that supports basic a
 You can either clone this repo or manually download the `calculator.py` file.
 
 
-git clone https://github.com/yourusername/command-line-calculator.git
+git clone (https://github.com/Deepshikha285/calculator)
 cd command-line-calculator
 
 2. Run the Calculator
