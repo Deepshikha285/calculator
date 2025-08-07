@@ -39,8 +39,7 @@ Make sure Python is installed on your system. Then open the terminal and run:
 python calculator.py
 
 Usage Example
-
-mathematica
+Mathematics
 
 --- Command-Line Calculator ---
 1. Add
@@ -56,25 +55,26 @@ Result: 15.0
 Project Structure
 
 command-line-calculator/
-│
-├── calculator.py     # Main Python script
-└── README.md         # Project documentation
+
+calculator.py     # Main Python script
+README.md         # Project documentation
 
 
  Code Structure
-	• Each operation is handled by a dedicated function:
-		○ add(x, y)
-		○ subtract(x, y)
-		○ multiply(x, y)
-		○ divide(x, y)
-	• A loop allows repeated use until the user exits.
-	• Basic error handling is included for invalid input and division by zero.
+• Each operation is handled by a dedicated function:
+○ add(x, y)
+○ subtract(x, y)
+○ multiply(x, y)
+○ divide(x, y)
+
+• A loop allows repeated use until the user exits.
+• Basic error handling is included for invalid input and division by zero.
 
  To-Do (Optional Enhancements)
-	• Support for exponentiation, modulus
-	• Command-line arguments for one-off calculations
-	• Logging calculation history
-	• GUI version using Tkinter or PyQt
+• Support for exponentiation, modulus
+• Command-line arguments for one-off calculations
+• Logging calculation history
+• GUI version using Tkinter or PyQt
 
 
 
